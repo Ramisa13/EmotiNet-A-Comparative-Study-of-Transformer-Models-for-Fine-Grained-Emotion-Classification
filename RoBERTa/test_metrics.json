@@ -1,0 +1,10 @@
+{
+    "test_loss": 0.09173242002725601,
+    "test_micro_f1": 0.5023791635361883,
+    "test_macro_f1": 0.325369123545162,
+    "test_subset_acc": 0.4270046745774901,
+    "test_jaccard": 0.43846637900035956,
+    "test_runtime": 8.7783,
+    "test_samples_per_second": 1267.209,
+    "test_steps_per_second": 9.911
+}
